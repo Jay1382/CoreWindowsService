@@ -1,0 +1,1 @@
+J:\IT\Projects\C#\.Net core\Windows Service\Windows-Service-.NET-Core-master\CoreWindowsService\.sonarqube\out\0

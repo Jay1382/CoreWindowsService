@@ -1,0 +1,5 @@
+﻿J:\IT\Projects\C#\.Net core\Windows Service\Windows-Service-.NET-Core-master\CoreWindowsService\FileWriteService.cs
+J:\IT\Projects\C#\.Net core\Windows Service\Windows-Service-.NET-Core-master\CoreWindowsService\Program.cs
+C:\Users\jay\.nuget\packages\runtime.win-x64.microsoft.netcore.dotnethostpolicy\2.2.8\runtimes\win-x64\native\hostpolicy.dll
+C:\Users\jay\.nuget\packages\runtime.win-x64.microsoft.netcore.dotnethostresolver\2.2.8\runtimes\win-x64\native\hostfxr.dll
+J:\IT\Projects\C#\.Net core\Windows Service\Windows-Service-.NET-Core-master\CoreWindowsService\obj\Debug\netcoreapp2.2\win7-x64\apphost.exe
